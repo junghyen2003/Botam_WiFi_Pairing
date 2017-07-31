@@ -1,3 +1,3 @@
 # Botam_WiFi_Pairing
 
-WF5000 Àåºñ¿¡ ´ëÇÑ WiFi Paring Test APP
+WF5000 ì¥ë¹„ì— ëŒ€í•œ WiFi Paring Test APP
